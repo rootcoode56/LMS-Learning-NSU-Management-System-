@@ -1,62 +1,64 @@
-# Welcome to my project
+🎓 North South University Learning Management System (LMS)
+📘 Overview
 
-## Project info
+This project is a Learning Management System (LMS) designed for QM Asif Tanjim (ID: 2211402042) from North South University.
+It allows students to manage academic activities, view courses, upload assignments, and track due dates — all from a simple, clean dashboard.
 
-**URL**: https://lovable.dev/projects/8e025f0f-484c-444f-9991-7fd13986a634
+✨ Features
 
-## How can I edit this code?
+🧑‍🎓 Editable Profile: Students can edit their name and institution ID.
 
-There are several ways of editing your application.
+📚 Dashboard View: Displays six enrolled courses in a grid format.
 
-**Use your preferred IDE**
+🔗 Clickable Courses: Each course navigates to its detailed page with instructor info and assignments.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+📅 Due Date Tracker: Shows upcoming assignment deadlines.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+📤 Assignment Upload System: Upload assignments in PDF/DOCX/ZIP formats.
 
-Follow these steps:
+🏫 Institution Branding: Displays North South University logo and personalized greeting.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+📂 Course List
+Course Code	Course Title	Instructor
+CSE445	Machine Learning	HSM
+CSE323	Operating System	SMSL
+EEE452	Engineering Economics	Rkz
+PHI104	Introduction to Ethics	MnT
+CHE101L	Introduction to Chemistry Lab	SFRH
+CSE327	Software Development	IQN
+🧠 Technologies Used
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Frontend: TypeScript / JavaScript / Flutter / React (choose your stack)
 
-# Step 3: Install the necessary dependencies.
-npm i
+Backend: Firebase / Node.js (if applicable)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Database: Firebase Realtime Database / Firestore
 
-**Edit a file directly in GitHub**
+Version Control: Git & GitHub
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+⚙️ Setup Instructions
 
-**Use GitHub Codespaces**
+Clone the repository
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+git clone https://github.com/rootcoode56/LMS-Learning-NSU-Management-System-
 
-## What technologies are used for this project?
 
-This project is built with:
+Install dependencies
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+npm install
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Run the development server
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-"# LMS-Learning-NSU-Management-System-" 
+npm start
+
+
+Open in browser: http://localhost:3000
+
+🧑‍💻 Developer
+QM Asif Tanjim
+🎓 North South University
+🆔 2211402042
+]
+
+🌐 https://github.com/rootcoode56
